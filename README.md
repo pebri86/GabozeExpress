@@ -1,4 +1,4 @@
-# ![Gaboze Express](Assets/GabozeExpress.png)
+# ![Gaboze Express](assets/GabozeExpress.png)
 > Hardware Branch
 
 
